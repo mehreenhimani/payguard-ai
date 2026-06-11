@@ -7,6 +7,13 @@
 [![Built with Claude](https://img.shields.io/badge/AI-Claude%20API-orange)](https://anthropic.com)
 [![React](https://img.shields.io/badge/React-18-61dafb)](https://react.dev)
 
+## Screenshots
+
+![Dashboard](public/screenshots/dashboard.png)
+![Explainability Panel](public/screenshots/explainability.png)
+![Review Queue](public/screenshots/queue.png)
+![Eval Dashboard](public/screenshots/analytics.png)
+
 ---
 
 ## The Problem
