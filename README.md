@@ -9,11 +9,17 @@
 
 ## Screenshots
 
-![Dashboard](public/screenshots/dashboard.png)
-![Explainability Panel](public/screenshots/explainability.png)
-![Review Queue](public/screenshots/queue.png)
-![Eval Dashboard](public/screenshots/analytics.png)
+### Transaction Risk Dashboard
+![Dashboard](Payguard_Dashboard.png)
 
+### Explainability Panel — EU AI Act Article 13
+![Explainability](Payguard_ExplainabilityReport.png)
+
+### Analyst Review Queue
+![Queue](Payguard_Queue.png)
+
+### Model Analytics & Eval Dashboard
+![Analytics](Payguard_Analytics.png)
 ---
 
 ## The Problem
